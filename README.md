@@ -17,7 +17,11 @@ install_github("cyhsuTN/CoxTEL")
 library(CoxTEL)
 ```
 
-## Example
+### Web Version of CoxTEL
+- CoxTEL shiny:
+  <https://cyhsutn.shinyapps.io/CoxTEL_shiny/>
+
+### CoxTEL Guidance (R code)
 
 A demo survival figure for CoxTEL. The KM curves and HR with 95% CI are
 estimated from simulated data.
