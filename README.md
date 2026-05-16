@@ -18,7 +18,7 @@ library(CoxTEL)
 ```
 
 ### Web Version of CoxTEL
-Upload a KM plot (png, jpg), then CoxTEL is performed.
+Upload a KM plot (png, jpg), then CoxTEL will be performed.
 - CoxTEL shiny:
   <https://cyhsutn.shinyapps.io/CoxTEL_shiny/>
 
