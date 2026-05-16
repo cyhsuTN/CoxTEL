@@ -2,7 +2,7 @@ CoxTEL: a method to correct misinterpretation of clinical trial results with lon
 ================
 Chih-Yuan Hsu
 
-June 28, 2024
+May 15, 2026
 
 
 ## Installation
