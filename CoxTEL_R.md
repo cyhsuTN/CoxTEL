@@ -1,3 +1,4 @@
+# Code for R users
 
 A demo survival figure for CoxTEL. The KM curves and HR with 95% CI are
 estimated from simulated data.
